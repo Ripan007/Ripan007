@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/application-programming-interface-concept-set-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-2579.jpg?w=740&t=st=1660734430~exp=1660735030~hmac=ab77c5234c89d8305c7c6b9ad1eb76267e67215d4c5b0d578983a05c92eeff9f)
+
 <h1 align="center">Hi 👋, I'm Ripan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
