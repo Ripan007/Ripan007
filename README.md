@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ripan03982623" target="blank"><img src="https://img.shields.io/twitter/follow/ripan03982623?logo=twitter&style=for-the-badge" alt="ripan03982623" /></a> </p>
 
-- 🌱 I’m currently learning **CSS , javaScript , React**
+- 🌱 I’m currently learning **javaScript,React**
 
-- 💬 Ask me about **CSS , javascript , MEARN**
+- 💬 Ask me about **javaScript,MEARN**
 
 - 📫 How to reach me **reponmondal007@gmail.com**
 
