@@ -1,7 +1,8 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQFy6xC2TRJm8Q/feedshare-shrink_2048_1536/0/1649827917767?e=2147483647&v=beta&t=_SE5elL2fZN7UxRrjd0nSzzSG7MbIPzVG5AEQnTSS2c)
+![MasterHead](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 <h1 align="center">Hi 👋, I'm Ripan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="500"  src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+<img align="center" alt="coding" width="500"  src="https://media-exp1.licdn.com/dms/image/C5622AQFy6xC2TRJm8Q/feedshare-shrink_2048_1536/0/1649827917767?e=2147483647&v=beta&t=_SE5elL2fZN7UxRrjd0nSzzSG7MbIPzVG5AEQnTSS2c">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripan007&label=Profile%20views&color=0e75b6&style=flat" alt="ripan007" /> </p>
