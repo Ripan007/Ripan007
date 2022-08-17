@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fc/51/dc/fc51dcdde83ebae17aa8e99ba8e9fe93.gif)
+![MasterHead](https://img.freepik.com/premium-vector/man-programming-computer-coder-working-software-development-concept-vector-illustration_543062-483.jpg)
 <h1 align="center">Hi 👋, I'm Ripan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/84/08/31/840831ca7da9b0d3dc704d6a870b0afb.jpg">
