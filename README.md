@@ -1,4 +1,4 @@
-
+![MasterHead](https://thumbs.dreamstime.com/b/javascript-gold-text-black-background-d-rendered-royalty-free-stock-picture-image-can-be-used-online-website-banner-87916218.jpg)
 <h1 align="center">Hi 👋, I'm Ripan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
