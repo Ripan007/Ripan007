@@ -27,8 +27,9 @@
 <div>
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=ripan007&show_icons=true&locale=en" alt="ripan007" /></p>
 </div>
+<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripan007&" alt="ripan007" /></p>
-
+</div>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
