@@ -1,7 +1,7 @@
 ![MasterHead](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Ripan</h1>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripan007&label=Profile%20views&color=0e75b6&style=flat" alt="ripan007" /> </p>
 
