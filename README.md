@@ -40,6 +40,6 @@
 
 <div align="center">
 
-  ### Show some <img src="https://www.icegif.com/wp-content/uploads/love-heart-icegif.gif" height="30"   />      by starring some of my repositories!
+  ### Show some <img src="https://images.squarespace-cdn.com/content/v1/56a63122a128e688e75f254d/1455442915022-TB3G5WPFE8RQKE6R4WOF/Valentines+Lesbian+Gif+2" height="50"   />      by starring some of my repositories!
   
   </div>
