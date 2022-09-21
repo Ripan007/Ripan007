@@ -1,6 +1,6 @@
 ![MasterHead](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm <span style="color:#87A2FB; font-family: 'Bebas Neue'; font-size: 4em;">Ripan</span> </h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm <span style="color:#RRGGBB; font-family: 'Bebas Neue'; font-size: 4em;">Ripan</span> </h1>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 
