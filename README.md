@@ -13,7 +13,7 @@
  🌱 I’m currently learning javaScript,React.\
  💬 Ask me about javaScript,MEARN.\
  🤔 I’m looking for help with Exploring New Technologies.\
- 📫 How to reach me Email - reponmondal007@gmail.com.\
+ 📫 How to reach me Email - reponmondal007@gmail.com.
 
 
 ## 🌐Socials :
