@@ -14,7 +14,7 @@
  💬 Ask me about javaScript,MEARN.\
  🤔 I’m looking for help with Exploring New Technologies.\
  📫 How to reach me Email - reponmondal007@gmail.com.\
- ⚡ Fun fact I am funny.
+
 
 ## 🌐Socials :
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripan-mondal-218872128/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reponmondal007) [![hashNode](https://img.shields.io/badge/HashNode-12100E?logo=medium&logoColor=white)](https://hashnode.com/@Ripan) 
