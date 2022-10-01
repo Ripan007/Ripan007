@@ -1,4 +1,6 @@
-![banner](https://user-images.githubusercontent.com/92440897/193376266-c476439a-833a-4cc5-ba78-b10b4bc5f44f.png)
+
+![image](https://user-images.githubusercontent.com/92440897/193376559-4c3ad92d-3d4b-4676-850d-3e4e25919d09.png)
+
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm <span style="color:#RRGGBB; font-family: 'Bebas Neue'; font-size: 4em;">Ripan</span> </h1>
 
