@@ -1,3 +1,4 @@
+![banner (1)](https://user-images.githubusercontent.com/92440897/194640371-5b069745-30f2-439e-9155-c871a1fe5ef2.png)
 
 <h1 align="center">Hi 👋, I'm Ripan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
