@@ -1,7 +1,7 @@
 ![banner (1)](https://user-images.githubusercontent.com/92440897/194640371-5b069745-30f2-439e-9155-c871a1fe5ef2.png)
 
 <h1 align="center">Hi 👋, I'm Ripan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripan007&label=Profile%20views&color=0e75b6&style=flat" alt="ripan007" /> </p>
 
