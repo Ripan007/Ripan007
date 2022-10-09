@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripan007&show_icons=true&locale=en" alt="ripan007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripan007&" alt="ripan007" /></p>
+
+ <p align="center"> show some LOVE! <img width="50" src="https://bestanimations.com/uploads/gifs/1697162351rotating-red-heart-gif-animation61.gif"/> repository  </p>
