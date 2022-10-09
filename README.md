@@ -1,6 +1,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/92440897/194640371-5b069745-30f2-439e-9155-c871a1fe5ef2.png)
 
-<h1 align="center">Hi there  <img width="100" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"> , I'm Ripan</h1>
+<h1 align="center">Hi there  <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"> , I'm Ripan</h1>
 
 <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripan007&label=Profile%20views&color=0e75b6&style=flat" alt="ripan007" /> </p>
