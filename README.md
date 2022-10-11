@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.istockphoto.com/vectors/javascript-concept-banner-header-vector-id1133769470?k=20&m=1133769470&s=170667a&w=0&h=OOBjRHlPWE17e66Vz21t9F3PhwryIDHrdXuYNFkqdiU="/>
+<img width="100%" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg"/>
 
 <h1 align="center">Hi there  <img width="50" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"> , I'm Ripan</h1>
 
